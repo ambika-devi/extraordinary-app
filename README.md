@@ -27,9 +27,11 @@ Feature	Description
 ⚡ GraphQL API	Apollo Client handles queries & mutations
 🚀 Deploy Ready	Configured for GitHub Pages hosting
 🔑 Demo Login Credentials 
-Role	Username	Password
-Admin	admin	admin123
-Employee	employee	employee123
+| 🧑‍💼 **Role**     | 👤 **Username** | 🔐 **Password**   |
+| ------------------ | --------------- | ----------------- |
+| ⭐ **Admin**        | **`admin`**     | **`admin123`**    |
+| 👨‍🔧 **Employee** | **`employee`**  | **`employee123`** |
+
 
 🖼️ Screenshots (Optional)
 Page	Description
